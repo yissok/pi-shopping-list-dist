@@ -1,0 +1,25 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1",
+  "app": "pi-shopping-list",
+  "global": "__sveltekit_1iqurjr",
+  "start": "_app/immutable/entry/start.DNF56X_x.js",
+  "appEntry": "_app/immutable/entry/app.FsUEwuW1.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1/_app/immutable/entry/start.DNF56X_x.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1/_app/immutable/chunks/CYZ1ENvu.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1/_app/immutable/chunks/rqVe84Ep.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1/_app/immutable/chunks/DK4_ttQw.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1/_app/immutable/entry/app.FsUEwuW1.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1/_app/immutable/chunks/D9ZLV0mK.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1/_app/immutable/chunks/Dwsh6vRw.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1/_app/immutable/chunks/6MI2XUp1.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/2de0e2f6e1035481e97e46b0a9e5ea414b46e576-38748099030-1/_app/immutable/nodes/0.CRiRneHV.js"
+  ],
+  "social": {
+    "title": "Pi Shopping List",
+    "description": "An interactive website created with Project Factory."
+  }
+}
