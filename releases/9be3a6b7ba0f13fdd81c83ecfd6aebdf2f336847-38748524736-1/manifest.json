@@ -1,0 +1,26 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1",
+  "app": "pi-shopping-list",
+  "global": "__sveltekit_bfi3o9",
+  "start": "_app/immutable/entry/start.OXvqUQXs.js",
+  "appEntry": "_app/immutable/entry/app.BW9rOpnQ.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/entry/start.OXvqUQXs.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/chunks/Dk3ohjtw.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/chunks/Du3YN8-p.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/chunks/BAp75JCx.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/entry/app.BW9rOpnQ.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/chunks/Bgbci6y-.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/chunks/BIkhac1i.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/chunks/Cc6WIAz6.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/chunks/wLPetVXt.js",
+    "https://yissok.github.io/pi-shopping-list-dist/releases/9be3a6b7ba0f13fdd81c83ecfd6aebdf2f336847-38748524736-1/_app/immutable/nodes/0.BQK1LUDV.js"
+  ],
+  "social": {
+    "title": "Pi Shopping List",
+    "description": "An interactive website created with Project Factory."
+  }
+}
